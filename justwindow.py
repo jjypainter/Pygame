@@ -1,33 +1,25 @@
-from pygame.constants import(
-    QUIT
-)
+import sys
+import pygame
+from pygame.locals import QUIT
+
+
 pygame.init()
+SURFACE=pygame.display.set_mode([400, 300])
+pygame.display.set_caption("Just Window")
 
-size=width, height, = 640, 480
-dx=1
-dy=1
-x=163
-y=120
-black=(0,0,0)
-white=(255,255,255)
 
-screen=pygame.display.set_mode(size)
+def main():
+    """main routine"""
+    while True:
+        SURFACE.fill((255,255,255))
 
-while 1:
-    for event in pygame.event.get():
-        if event.type == QUIT: sys.exit()
 
-    x += dx
-    y += dy
+        for event in pygame.event.get():
+            if event.type==QUIT:
+                pygame.quit()
+                sys.exit()
+            pygame.display.update()
 
-    if x < 0 or x > width:
-        dx = -dx
+if __name__==' __main__ ':
+    main()
 
-    if y < 0 or y > height:
-        dy = -dy
-
-    screen.fill(black)
-
-    pygame.draw.circle(screen, white, (x,y), 8)
-
-    pygame.display.flip()
