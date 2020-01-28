@@ -25,7 +25,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/setup.py" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="setup" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -72,10 +73,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580222318667" />
-    <state x="595" y="350" key="FileChooserDialogImpl" timestamp="1580222313397">
+    <state x="595" y="350" key="FileChooserDialogImpl" timestamp="1580224059474">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="595" y="350" key="FileChooserDialogImpl/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580222313397" />
+    <state x="595" y="350" key="FileChooserDialogImpl/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580224059474" />
     <state width="1362" height="256" key="GridCell.Tab.0.bottom" timestamp="1580223265771">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -92,9 +93,9 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1362" height="256" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580223265771" />
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1580222482002">
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1580223897303">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580222482002" />
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580223897303" />
   </component>
 </project>
