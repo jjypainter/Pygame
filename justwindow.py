@@ -10,7 +10,7 @@ pygame.display.set_caption("Just Window")
 def main():
     """main routine"""
     while True:
-        SURFACE.fill((255, 255, 255))
+        SURFACE.fill((255, 255, 0))
 
         for event in pygame.event.get():
             if event.type == QUIT:
