@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Setup Script" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -82,22 +83,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="595" y="350" key="FileChooserDialogImpl/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580224797738" />
-    <state width="1362" height="256" key="GridCell.Tab.0.bottom" timestamp="1580225325211">
+    <state width="1362" height="256" key="GridCell.Tab.0.bottom" timestamp="1580310489801">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1362" height="256" key="GridCell.Tab.0.bottom/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580225325211" />
-    <state width="1362" height="256" key="GridCell.Tab.0.center" timestamp="1580225325211">
+    <state width="1362" height="256" key="GridCell.Tab.0.bottom/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580310489801" />
+    <state width="1362" height="256" key="GridCell.Tab.0.center" timestamp="1580310489801">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1362" height="256" key="GridCell.Tab.0.center/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580225325211" />
-    <state width="1362" height="256" key="GridCell.Tab.0.left" timestamp="1580225325211">
+    <state width="1362" height="256" key="GridCell.Tab.0.center/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580310489801" />
+    <state width="1362" height="256" key="GridCell.Tab.0.left" timestamp="1580310489800">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1362" height="256" key="GridCell.Tab.0.left/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580225325211" />
-    <state width="1362" height="256" key="GridCell.Tab.0.right" timestamp="1580225325211">
+    <state width="1362" height="256" key="GridCell.Tab.0.left/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580310489800" />
+    <state width="1362" height="256" key="GridCell.Tab.0.right" timestamp="1580310489801">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1362" height="256" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580225325211" />
+    <state width="1362" height="256" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580310489801" />
     <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1580309647763">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
