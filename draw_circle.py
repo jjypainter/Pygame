@@ -1,7 +1,7 @@
 import sys
 
 import pygame
-from pygame.locals import QUIT, Rect
+from pygame.locals import QUIT
 
 pygame.init()
 SURFACE = pygame.display.set_mode((400, 300))
@@ -20,16 +20,16 @@ def main():
         SURFACE.fill((255, 255, 255))
 
         # 빨간색: 꽉 채워서 칠한다
-        pygame.draw.circle(SURFACE, (255, 0, 0), (50, 50), 20)
+        pygame.draw.circle(SURFACE, (255, 0, 0), [50, 50], 20)
         # 빨간색:굵기10
-        pygame.draw.circle(SURFACE, (255, 0, 0), (150, 50), 20, 10)
+        pygame.draw.circle(SURFACE, (255, 0, 0), [150, 50], 20, 10)
 
         # 녹색:반경10
-        pygame.draw.circle(SURFACE, (0, 255, 0), (50, 150), 10)
+        pygame.draw.circle(SURFACE, (0, 255, 0), [50, 150], 10)
         # 녹색:반경20
-        pygame.draw.circle(SURFACE, (0, 255, 0), (150, 150), 20)
+        pygame.draw.circle(SURFACE, (0, 255, 0), [150, 150], 20)
         # 녹색:반경30
-        pygame.draw.circle(SURFACE, (0, 255, 0), (250, 150), 30)
+        pygame.draw.circle(SURFACE, (0, 255, 0), [250, 150], 30)
 
         pygame.display.update()
         FPSCLOCK.tick(3)
