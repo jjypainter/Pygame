@@ -35,28 +35,7 @@
       <recent name="D:\바탕화면\VR교육과정\PYTHON3.8\Pygame" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.draw_line1">
-    <configuration name="draw_circle" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Pygame" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\ganglim\AppData\Local\Programs\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_circle2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.draw_polygon">
     <configuration name="draw_line1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pygame" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,8 +57,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="draw_polygon" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Pygame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ganglim\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_polygon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.draw_circle" />
+      <item itemvalue="Python.draw_polygon" />
       <item itemvalue="Python.draw_line1" />
     </list>
     <recent_temporary>
@@ -106,37 +106,37 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="418" y="191" key="#Inspections/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580654791210" />
-    <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581170962389">
+    <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582124050050">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170962389" />
-    <state x="595" y="350" key="FileChooserDialogImpl" timestamp="1581170961342">
+    <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124050050" />
+    <state x="595" y="350" key="FileChooserDialogImpl" timestamp="1582124048300">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="595" y="350" key="FileChooserDialogImpl/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170961342" />
-    <state width="1362" height="256" key="GridCell.Tab.0.bottom" timestamp="1581170983151">
+    <state x="595" y="350" key="FileChooserDialogImpl/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124048300" />
+    <state width="1362" height="256" key="GridCell.Tab.0.bottom" timestamp="1582124052909">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1362" height="256" key="GridCell.Tab.0.bottom/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170983151" />
-    <state width="1362" height="256" key="GridCell.Tab.0.center" timestamp="1581170983151">
+    <state width="1362" height="256" key="GridCell.Tab.0.bottom/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124052909" />
+    <state width="1362" height="256" key="GridCell.Tab.0.center" timestamp="1582124052909">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1362" height="256" key="GridCell.Tab.0.center/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170983151" />
-    <state width="1362" height="256" key="GridCell.Tab.0.left" timestamp="1581170983151">
+    <state width="1362" height="256" key="GridCell.Tab.0.center/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124052909" />
+    <state width="1362" height="256" key="GridCell.Tab.0.left" timestamp="1582124052909">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1362" height="256" key="GridCell.Tab.0.left/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170983151" />
-    <state width="1362" height="256" key="GridCell.Tab.0.right" timestamp="1581170983151">
+    <state width="1362" height="256" key="GridCell.Tab.0.left/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124052909" />
+    <state width="1362" height="256" key="GridCell.Tab.0.right" timestamp="1582124052909">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1362" height="256" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170983151" />
+    <state width="1362" height="256" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124052909" />
     <state x="300" y="160" key="SettingsEditor" timestamp="1581170842939">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="300" y="160" key="SettingsEditor/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170842939" />
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1581170800832">
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1582124001401">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170800832" />
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124001401" />
   </component>
 </project>
