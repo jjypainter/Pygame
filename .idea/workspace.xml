@@ -79,8 +79,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.draw_polygon" />
       <item itemvalue="Python.draw_line1" />
+      <item itemvalue="Python.draw_polygon" />
     </list>
     <recent_temporary>
       <list>
@@ -134,9 +134,9 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="300" y="160" key="SettingsEditor/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170842939" />
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1582124001401">
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1582209964075">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124001401" />
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582209964075" />
   </component>
 </project>
