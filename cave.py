@@ -27,7 +27,7 @@ def main():
     while True:
         is_space_down = False
         for event in pygame.event.get():
-            if event.time == QUIT:
+            if event.type == QUIT:
                 pygame.quit()
                 sys.exit()
             elif event.type == KEYDOWN:
@@ -46,15 +46,15 @@ def main():
             if test.top <= 0 or test.bottom >= 600:
                 slope = randint(1, 6) * (-1 if slope > 0 else 1)
                 edge.inflate_ip(0, -20)
-                edge.move_ip(10, slope)
-                holes.append(edge)
-                del holes[0]
-                holes = [x.move(-10, 0) for x in holes]
+            edge.move_ip(10, slope)
+            holes.append(edge)
+            del holes[0]
+            holes = [x.move(-10, 0) for x in holes]
 
-                # 충돌?
-                if holes[0].top > ship_y or \
-                        holes[0].bottom < ship_y + 80:
-                    game_over = True
+            # 충돌?
+            if holes[0].top > ship_y or \
+                 holes[0].bottom < ship_y + 80:
+                 game_over = True
 
         # 그리기
         SURFACE.fill((0, 255, 0))
