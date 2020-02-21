@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/draw_polygon.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cave.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -35,7 +35,28 @@
       <recent name="D:\바탕화면\VR교육과정\PYTHON3.8\Pygame" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.draw_polygon">
+  <component name="RunManager" selected="Python.cave">
+    <configuration name="cave" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Pygame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ganglim\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cave.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="draw_line1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pygame" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,30 +78,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="draw_polygon" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Pygame" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\ganglim\AppData\Local\Programs\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_polygon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.cave" />
       <item itemvalue="Python.draw_line1" />
-      <item itemvalue="Python.draw_polygon" />
     </list>
     <recent_temporary>
       <list>
@@ -102,18 +102,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="191" key="#Inspections" timestamp="1580654791210">
+    <state x="418" y="191" key="#Inspections" timestamp="1582298529619">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="418" y="191" key="#Inspections/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1580654791210" />
-    <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582124050050">
+    <state x="418" y="191" key="#Inspections/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582298529619" />
+    <state x="391" y="177" width="816" height="730" key="#Intentions" timestamp="1582298471764">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124050050" />
-    <state x="595" y="350" key="FileChooserDialogImpl" timestamp="1582124048300">
+    <state x="391" y="177" width="816" height="730" key="#Intentions/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582298471764" />
+    <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582298587035">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="595" y="350" key="FileChooserDialogImpl/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582124048300" />
+    <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582298587035" />
+    <state x="595" y="350" key="FileChooserDialogImpl" timestamp="1582298585184">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="595" y="350" key="FileChooserDialogImpl/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582298585184" />
     <state width="1362" height="256" key="GridCell.Tab.0.bottom" timestamp="1582124262691">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -134,9 +138,13 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="300" y="160" key="SettingsEditor/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170842939" />
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1582209964075">
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1582297249236">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582209964075" />
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582297249236" />
+    <state x="462" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1582297871661">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="462" y="244" width="672" height="678" key="search.everywhere.popup/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582297871661" />
   </component>
 </project>
