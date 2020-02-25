@@ -44,8 +44,8 @@ def main():
             edge = holes[-1].copy()
             test = edge.move(0, slope)
             if test.top <= 0 or test.bottom >= 600:
-                slop = randint(1, 6) * (-1 if slope > 0 else 1)
-            edge.inflate_ip(0, -20)
+                slope = randint(1, 6) * (-1 if slope > 0 else 1)
+                edge.inflate_ip(0, -20)
             edge.move_ip(10, slope)
             holes.append(edge)
             del holes[0]
@@ -59,15 +59,15 @@ def main():
         SURFACE.fill((0, 255, 0))
         for hole in holes:
             pygame.draw.rect(SURFACE, (0, 0, 0), hole)
-            SURFACE.blit(ship_image, (0, ship_y))
-            score_image = sysfont.render("score is {}".format(score), True, (0, 0, 255))
-            SURFACE.blit(score_image, (600, 20))
+        SURFACE.blit(ship_image, (0, ship_y))
+        score_image = sysfont.render("score is {}".format(score), True, (0, 0, 255))
+        SURFACE.blit(score_image, (600, 20))
 
-            if game_over:
-                SURFACE.blit(bang_image, (0, ship_y - 40))
+        if game_over:
+             SURFACE.blit(bang_image, (0, ship_y-40))
 
-            pygame.display.update()
-            FPSCLOCK.tick(15)
+        pygame.display.update()
+        FPSCLOCK.tick(15)
 
 
 if __name__ == '__main__':
