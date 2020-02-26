@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cave.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cave2.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -35,8 +35,8 @@
       <recent name="D:\바탕화면\VR교육과정\PYTHON3.8\Pygame" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cave">
-    <configuration name="cave" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.cave2">
+    <configuration name="cave2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Pygame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cave.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cave2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +79,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.cave" />
+      <item itemvalue="Python.cave2" />
       <item itemvalue="Python.draw_line1" />
     </list>
     <recent_temporary>
@@ -110,29 +110,35 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="391" y="177" width="816" height="778" key="#Intentions/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582298981749" />
-    <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582298587035">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="-1411" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582719632853">
+      <screen x="-1680" y="0" width="1680" height="1010" />
     </state>
+    <state x="-1411" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.0.1680.1010/0.0.1680.1010@-1680.0.1680.1010" timestamp="1582719632853" />
     <state x="269" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582298587035" />
-    <state x="595" y="350" key="FileChooserDialogImpl" timestamp="1582298585184">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="-1085" y="350" key="FileChooserDialogImpl" timestamp="1582719630005">
+      <screen x="-1680" y="0" width="1680" height="1010" />
     </state>
+    <state x="-1085" y="350" key="FileChooserDialogImpl/-1680.0.1680.1010/0.0.1680.1010@-1680.0.1680.1010" timestamp="1582719630005" />
     <state x="595" y="350" key="FileChooserDialogImpl/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582298585184" />
-    <state width="1362" height="316" key="GridCell.Tab.0.bottom" timestamp="1582642684568">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1362" height="256" key="GridCell.Tab.0.bottom" timestamp="1582720726900">
+      <screen x="-1680" y="0" width="1680" height="1010" />
     </state>
+    <state width="1362" height="256" key="GridCell.Tab.0.bottom/-1680.0.1680.1010/0.0.1680.1010@-1680.0.1680.1010" timestamp="1582720726900" />
     <state width="1362" height="316" key="GridCell.Tab.0.bottom/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582642684568" />
-    <state width="1362" height="316" key="GridCell.Tab.0.center" timestamp="1582642684568">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1362" height="256" key="GridCell.Tab.0.center" timestamp="1582720726900">
+      <screen x="-1680" y="0" width="1680" height="1010" />
     </state>
+    <state width="1362" height="256" key="GridCell.Tab.0.center/-1680.0.1680.1010/0.0.1680.1010@-1680.0.1680.1010" timestamp="1582720726900" />
     <state width="1362" height="316" key="GridCell.Tab.0.center/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582642684568" />
-    <state width="1362" height="316" key="GridCell.Tab.0.left" timestamp="1582642684567">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1362" height="256" key="GridCell.Tab.0.left" timestamp="1582720726900">
+      <screen x="-1680" y="0" width="1680" height="1010" />
     </state>
+    <state width="1362" height="256" key="GridCell.Tab.0.left/-1680.0.1680.1010/0.0.1680.1010@-1680.0.1680.1010" timestamp="1582720726900" />
     <state width="1362" height="316" key="GridCell.Tab.0.left/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582642684567" />
-    <state width="1362" height="316" key="GridCell.Tab.0.right" timestamp="1582642684568">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1362" height="256" key="GridCell.Tab.0.right" timestamp="1582720726900">
+      <screen x="-1680" y="0" width="1680" height="1010" />
     </state>
+    <state width="1362" height="256" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1680.1010@-1680.0.1680.1010" timestamp="1582720726900" />
     <state width="1362" height="316" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582642684568" />
     <state width="1362" height="316" key="GridCell.Tab.1.bottom" timestamp="1582642684568">
       <screen x="0" y="0" width="1680" height="1010" />
@@ -154,10 +160,15 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="300" y="160" key="SettingsEditor/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1581170842939" />
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1582639838200">
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1582717831527">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582639838200" />
+    <state x="509" y="490" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582717831527" />
+    <state x="299" y="139" width="1038" height="588" key="dock-window-1" timestamp="1582720862521">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="188" y="23" width="1038" height="948" key="dock-window-1/-1680.0.1680.1010/0.0.1680.1010@-1680.0.1680.1010" timestamp="1582720483767" />
+    <state x="299" y="139" width="1038" height="588" key="dock-window-1/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582720862521" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1582641687191">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
