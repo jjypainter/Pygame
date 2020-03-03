@@ -56,7 +56,7 @@ def main():
                     holes[0].bottom < ship_y + 80:
                 game_over = True
 
-        SURFACE.fill((255, 255, 0))
+        SURFACE.fill((255, 0, 0))
         for hole in holes:
             pygame.draw.rect(SURFACE, (0, 0, 0), hole)
         SURFACE.blit(ship_image, (0, ship_y))
